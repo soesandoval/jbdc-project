@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO11_rowNum.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO1_select_distinct.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO2_where_between_in.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO5_AggregateFunc.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO7_stringFunctions.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO8_tableAliases.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/PO9_views.sql" dialect="GenericSQL" />
   </component>
 </project>
